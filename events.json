@@ -1,0 +1,30 @@
+[
+  {
+    "name": "github/gitignore",
+    "description": "A collection of useful .gitignore templates",
+    "language": "Shell",
+    "stars": 120000,
+    "url": "https://github.com/github/gitignore"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor",
+    "language": "TypeScript",
+    "stars": 200000,
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free with millions of other people around the world",
+    "language": "JavaScript",
+    "stars": 400000,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "name": "vuejs/vue",
+    "description": "The progressive JavaScript framework",
+    "language": "JavaScript",
+    "stars": 210000,
+    "url": "https://github.com/vuejs/vue"
+  }
+]
